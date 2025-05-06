@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         Calculadora calculadora = new Calculadora();
         int resultado = calculadora.sumar(3, 8);
+        
         System.out.println("El resultado es:" + resultado);
     }
 }
