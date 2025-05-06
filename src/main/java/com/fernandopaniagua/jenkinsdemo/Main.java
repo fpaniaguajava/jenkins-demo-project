@@ -7,7 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         Calculadora calculadora = new Calculadora();
-        int resultado = calculadora.sumar(3, 2);
-        System.out.println(resultado);
+        int resultado = calculadora.sumar(3, 8);
+        System.out.println("El resultado es:" + resultado);
     }
 }
